@@ -1,0 +1,2 @@
+normal_rate Corporation_Water:1,Borewell_Water:1.5
+slab_rate 2,3,5,8
