@@ -50,6 +50,7 @@
                             <addClasspath>true</addClasspath>
                             <!-- This is the main class of your program which will be executed-->
                             <mainClass>com.example.geektrust.Main</mainClass>
+                            		
                         </manifest>
                     </archive>
                 </configuration>
